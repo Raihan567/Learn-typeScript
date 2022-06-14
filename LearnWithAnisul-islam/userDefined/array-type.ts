@@ -7,3 +7,8 @@ user1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 user2 = [true, false, true, false];
 
 console.log(`${userNames}, ${user1}, ${user2}`);
+
+// multiple array data type:
+let multiplesArray: (string | number | boolean)[];
+multiplesArray = ["string", 2342, true, false];
+
