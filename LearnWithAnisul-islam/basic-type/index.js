@@ -14,3 +14,8 @@ userNull = null;
 // Undefined:
 var userUndefined;
 userUndefined = undefined;
+// void: kuno kichu return na korle seta ke void type dite pari
+function displayName() {
+    console.log("Hi I am display ");
+}
+displayName();
