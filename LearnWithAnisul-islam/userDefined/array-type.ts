@@ -12,3 +12,5 @@ console.log(`${userNames}, ${user1}, ${user2}`);
 let multiplesArray: (string | number | boolean)[];
 multiplesArray = ["string", 2342, true, false];
 
+
+
