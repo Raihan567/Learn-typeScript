@@ -25,3 +25,4 @@ function displayName(): void {
   console.log(`Hi I am display `);
 }
 displayName();
+
